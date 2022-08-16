@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16991" started-at="2022-08-16T13:55:20Z" finished-at="2022-08-16T13:55:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16991" started-at="2022-08-16T13:55:20Z" finished-at="2022-08-16T13:55:37Z">
+      <class name="executetests.DatePickersTest">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:executetests.DatePickersTest@192b07fd]" name="beforemethod" is-config="true" duration-ms="14701" started-at="2022-08-16T19:25:20Z" finished-at="2022-08-16T19:25:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="verifyDatePicker()[pri:0, instance:executetests.DatePickersTest@192b07fd]" name="verifyDatePicker" duration-ms="1770" started-at="2022-08-16T19:25:35Z" finished-at="2022-08-16T19:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDatePicker -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:executetests.DatePickersTest@192b07fd]" name="aftermethod" is-config="true" duration-ms="417" started-at="2022-08-16T19:25:37Z" finished-at="2022-08-16T19:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- executetests.DatePickersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
